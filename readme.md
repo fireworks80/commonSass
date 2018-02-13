@@ -1,3 +1,5 @@
+매 번 같은 파일을 생성하기 귀찮아 만듦
+
     / abstracts (mixins, function, variables....)
     / base (helper, reset, font)
     / vender (normalize....)
