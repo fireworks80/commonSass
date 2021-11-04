@@ -4,15 +4,18 @@
 | - base ( helper, reset )
 | - vender ( normalize )
 
-
 ## mixin
+
 - background-image
 - position (absolute, fixed, relative)
 - size
 - a11y
+- font face
 
-## function 
+## function
+
 - rem
 
-## helper 
+## helper
+
 - a11y-hidden
